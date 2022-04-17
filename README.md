@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif" width="350" height="250"/>
   <h1 align="center"><img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> I'm Sankalp</h1>
   <h3 align="center">Interested in anything related to AI and microcontrollers</h3>
 </div>
