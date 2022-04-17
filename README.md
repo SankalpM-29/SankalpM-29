@@ -2,9 +2,15 @@
   <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif" width="400" height="300"/>
   <h1 align="center"><img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> I'm Sankalp</h1>
   <h3 align="center">Interested in anything related to AI and microcontrollers</h3>
+</div>
 
+- 🔭 I’m fascinated by fields like Machine Learning, Deep Learning, CV and NLP
+- 🌱 I’m currently learning DSA, Recommendation systems and trying to get familiar with frameworks like Pytorch and Pyspark
+- 👯 I’m looking to collaborate on Kaggle competitions and try to be more active there
+- ⚡ Fun fact: ...
+  
   <h5 align="center"><i>(Feel free to reach me via any social-media platforms below)</i></h5>
-  <div id="badges">
+  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sankalp-mane-4b6530227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -18,14 +24,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-</div>
+
 
 <br>
-
-- 🔭 I’m fascinated by fields like Machine Learning, Deep Learning, CV and NLP
-- 🌱 I’m currently learning DSA, Recommendation systems and trying to get familiar with frameworks like Pytorch and Pyspark
-- 👯 I’m looking to collaborate on Kaggle competitions and try to be more active there
-- ⚡ Fun fact: ...
 
 
 ---
