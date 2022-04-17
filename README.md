@@ -21,7 +21,7 @@
 </div>
 
 ---
-### :hammer_and_wrench: Tools and Technologies:
+## :hammer_and_wrench: Tools and Technologies:
 
 #### Languages
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -44,9 +44,7 @@
 <code><img height="30" src="https://huggingface.co/favicon.ico"></code>
 <code><img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
 <code><img height="30" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code>
-<code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></code>
-<code><img height="30" src="https://www.keil.com/Content/images/Arm_KEIL_horizontal_white_LG.png"></code>
-<code><img height="30" src="https://www.labcenter.com/images/proteus-logo-with-text.png"></code>
+
 
 #### Cloud Platforms
 <code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
@@ -61,16 +59,15 @@
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-#### Operating System
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/UBT.png"></code>
-<code><img height="30" src="https://github.com/EgoistDeveloper/operating-system-logos/blob/master/src/48x48/WIN.png"></code>
-
 #### Databases
 <code><img height="30" src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress"></code>
 <code><img height="30" src="https://www.gstatic.com/devrel-devsite/prod/vee468f4e10aa470182a016132769d1277f3b792f56b19f433715afc734e9c71d/firebase/images/lockup.svg"></code>
 <code><img height="30" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
 
-
+#### Hardware IDEs
+<code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></code>
+<code><img height="30" src="https://www.keil.com/Content/images/Arm_KEIL_horizontal_white_LG.png"></code>
+<code><img height="30" src="https://www.labcenter.com/images/proteus-logo-with-text.png"></code>
 <!--
 **SankalpM-29/SankalpM-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
