@@ -20,6 +20,14 @@
 </div>
 </div>
 
+<br>
+
+- 🔭 I’m fascinated by fields like Machine Learning, Deep Learning, CV and NLP
+- 🌱 I’m currently learning DSA, Recommendation systems and trying to get familiar with frameworks like Pytorch and Pyspark
+- 👯 I’m looking to collaborate on Kaggle competitions and try to be more active there
+- ⚡ Fun fact: ...
+
+
 ---
 ## :hammer_and_wrench: Tools and Technologies:
 
@@ -75,17 +83,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SankalpM-29&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<!--
-**SankalpM-29/SankalpM-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
