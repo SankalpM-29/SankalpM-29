@@ -7,6 +7,7 @@
 - 🔭 I’m fascinated by fields like Machine Learning, Deep Learning, CV and NLP
 - 🌱 I’m currently learning DSA, Recommendation systems and trying to get familiar with frameworks like Pytorch and Pyspark
 - 👯 I’m looking to collaborate on Kaggle competitions and try to be more active there
+- ⚡ Fun fact: I still don't know where to use ; in a sentence
   
   <h5 align="center"><i>(Feel free to reach me via any social-media platforms below)</i></h5>
   <div id="badges" align="center">
