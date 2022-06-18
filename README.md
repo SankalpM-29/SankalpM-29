@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I’m fascinated by fields like Machine Learning, Deep Learning, CV and NLP
-- 🌱 I’m currently I am learning the different CI/CD methods and Test Automation
+- 🌱 I’m currently learning the different CI/CD methods and Test Automation
 - 👯 I’m looking to collaborate on Kaggle competitions and try to be more active there
 - ⚡ Fun fact: I still don't know where to use ; in a sentence
   
