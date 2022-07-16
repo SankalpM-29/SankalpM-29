@@ -27,7 +27,10 @@
 
 
 ---
-## :hammer_and_wrench: Tools and Technologies:
+<details>
+<summary> 
+<h2> :hammer_and_wrench: Tools and Technologies: </h2>
+</summary>
 
 #### Languages
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -74,9 +77,9 @@
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></code>
 <code><img height="30" src="https://www.keil.com/Content/images/Arm_KEIL_horizontal_white_LG.png"></code>
 <code><img height="30" src="https://www.labcenter.com/images/proteus-logo-with-text.png"></code>
+</details>
 
 ---
-
 ## :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SankalpM-29&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
